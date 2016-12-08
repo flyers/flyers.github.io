@@ -1,0 +1,14 @@
+title: Siyi Li
+url: "https://flyers.github.io"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+favicon: true
+favicon_location: "baobao.png"
