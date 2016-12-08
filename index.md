@@ -16,7 +16,8 @@ My Research interest focuses on applying computational and statistical approache
 
 ## Publications
 
-*	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. To appear in *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, San Francisco, California, USA, 4-9 February 2017. 
+*	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. To appear in *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, San Francisco, California, USA, 4-9 February 2017.   
+    [[Paper](paper/AAAI17_UAV.pdf)] [Code] [Data]
 
 ## Technical Reports
 
