@@ -12,7 +12,7 @@ I am especially interested in applying machine learning to real-world problems.
 
 ## Research Interest
 
-My Research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the area of visual tracking and UAV control.
+My research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the area of visual tracking and quadrotor control.
 
 ## Publications
 
