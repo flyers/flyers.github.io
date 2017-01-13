@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-I am currently a 3rd year Ph.D. student in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
+I am currently a 3rd year Ph.D. candidate in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
 
 I am especially interested in applying machine learning to real-world problems.
 
