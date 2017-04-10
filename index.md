@@ -23,7 +23,7 @@ My research interest focuses on applying computational and statistical approache
 
 *	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. *Technical report*, **arXiv**, 2015.  
 	[[Paper](https://arxiv.org/pdf/1501.04587.pdf)] [[Code](https://www.dropbox.com/s/e34mta1wxv50n95/SODLT_release.zip?dl=0)]
-*	A Survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.
+*	A Survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.  
 	[[paper](paper/PQE_DRL_Survey.pdf)]
 
 ## Teaching
