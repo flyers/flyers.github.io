@@ -21,7 +21,7 @@ My research interest focuses on applying computational and statistical approache
 
 ## Technical Reports
 
-*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. *Technical report*, **arXiv**, 2017.
+*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. *Technical report*, **arXiv**, 2017.  
 	[[Paper](https://arxiv.org/pdf/1709.08233.pdf)]
 *	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. *Technical report*, **arXiv**, 2015.  
 	[[Paper](https://arxiv.org/pdf/1501.04587.pdf)] [[Code](https://www.dropbox.com/s/e34mta1wxv50n95/SODLT_release.zip?dl=0)]
