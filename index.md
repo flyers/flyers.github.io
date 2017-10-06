@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-I am currently a 3rd year Ph.D. candidate in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
+I am a 4th year Ph.D. candidate in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk) and currently visiting Prof. [Matt Mason](http://www.cs.cmu.edu/~mason/)'s Manipulation Lab in Robotics Institute of [Carnegie Mellon University](http://www.cmu.edu/). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
 
 I am especially interested in applying machine learning to real-world problems.
 
 ## Research Interest
 
-My research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the area of visual tracking and quadrotor control.
+My research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the  perception and control of aerial robots.
 
 ## Publications
 
@@ -21,6 +21,8 @@ My research interest focuses on applying computational and statistical approache
 
 ## Technical Reports
 
+*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. *Technical report*, **arXiv**, 2017.
+	[[Paper](https://arxiv.org/pdf/1709.08233.pdf)]
 *	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. *Technical report*, **arXiv**, 2015.  
 	[[Paper](https://arxiv.org/pdf/1501.04587.pdf)] [[Code](https://www.dropbox.com/s/e34mta1wxv50n95/SODLT_release.zip?dl=0)]
 *	A survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.  
