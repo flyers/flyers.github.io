@@ -19,11 +19,11 @@ My research interest focuses on applying computational and statistical approache
 *	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, pp.4140-4146, San Francisco, California, USA, 4-9 February 2017.   
     [[Paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14338/14292)] [[Project Page](https://github.com/flyers/drone-tracking)] [[Data](https://www.dropbox.com/s/s1fj99s2six4lrs/DTB70.tar.gz?dl=0)]
 
-## Technical Reports
+## Preprints
 
-*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. *Technical report*, **arXiv**, 2017.  
+*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. CoRR abs/1709.08233 (2017)  
 	[[Paper](https://arxiv.org/pdf/1709.08233.pdf)]
-*	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. *Technical report*, **arXiv**, 2015.  
+*	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. CoRR abs/1501.04587 (2015)  
 	[[Paper](https://arxiv.org/pdf/1501.04587.pdf)] [[Code](https://www.dropbox.com/s/e34mta1wxv50n95/SODLT_release.zip?dl=0)]
 *	A survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.  
 	[Paper][[Slides](http://lisiyi.me/paper/PQE_DRL_slides.pdf)]
