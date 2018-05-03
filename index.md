@@ -16,9 +16,9 @@ My research interest focuses on applying computational and statistical approache
 
 ## Publications
 
-*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, and Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. To appear in *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI)*, Stockholm, Sweden, 13-19 July 2018.  
+*	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, and Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. To appear in *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (**IJCAI**)*, Stockholm, Sweden, 13-19 July 2018.  
 	[Paper] [Project Page]
-*	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, pp.4140-4146, San Francisco, California, USA, 4-9 February 2017.
+*	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, pp.4140-4146, San Francisco, California, USA, 4-9 February 2017.  
     [[Paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14338/14292)] [[Project Page](https://github.com/flyers/drone-tracking)] [[Data](https://www.dropbox.com/s/s1fj99s2six4lrs/DTB70.tar.gz?dl=0)]
 
 ## Preprints
