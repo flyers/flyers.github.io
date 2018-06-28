@@ -15,6 +15,7 @@ I am especially interested in applying machine learning to real-world problems.
 My research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the  perception and control of aerial robots.
 
 ## Publications
+
 *	**Siyi Li**, Jiaji Zhou, Zhenzhong Jia, Dit-Yan Yeung, and Matthew T. Mason. Learning accurate objectness instance segmentation from photo-realistic rendering for robotic manipulation. To appear in *Proceedings of the 2018 International Symposium on Experimental Robotics (**ISER**)*, Buenos Aires, Argentina, 5-8 November 2018.  
 	[Paper] [Project Page]
 *	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, and Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. To appear in *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (**IJCAI**)*, Stockholm, Sweden, 13-19 July 2018.  
