@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-I am a 4th year Ph.D. candidate in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). I was a visiting scholar working with Prof. [Matt Mason](http://www.cs.cmu.edu/~mason/)'s Manipulation Lab in Robotics Institute of [Carnegie Mellon University](http://www.cmu.edu/). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
+I am a final year Ph.D. student in [CSE Department](http://www.cse.ust.hk/), [Hong Kong University of Science and Technology](http://www.ust.hk). My supervisor is [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). I was a visiting scholar working with Prof. [Matt Mason](http://www.cs.cmu.edu/~mason/)'s Manipulation Lab in Robotics Institute of [Carnegie Mellon University](http://www.cmu.edu/). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn).
 
 I am especially interested in applying machine learning to real-world problems.
 
