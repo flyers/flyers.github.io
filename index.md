@@ -41,4 +41,4 @@ My research interest focuses on applying computational and statistical approache
 
 ## Academic Service
 *	PC Member: IJCAI 2015, AAAI 2018
-*	Journal Reviewer: TNNLS
+*	Journal Reviewer: TNNLS, TIP
