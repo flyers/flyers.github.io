@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-I obtained my Ph.D degree in [CSE Department](http://www.cse.ust.hk/) from the [Hong Kong University of Science and Technology](http://www.ust.hk). My Ph.D supervisor was [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). I was a visiting scholar working with Prof. [Matt Mason](http://www.cs.cmu.edu/~mason/)'s Manipulation Lab in Robotics Institute of [Carnegie Mellon University](http://www.cmu.edu/). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn). From July 2019, I start my job as a researcher in Tencent.
+I obtained my Ph.D degree in [CSE Department](http://www.cse.ust.hk/) from the [Hong Kong University of Science and Technology](http://www.ust.hk). My Ph.D supervisor was [Prof. Dit-Yan Yeung](http://www.cse.ust.hk/~dyyeung). I was a visiting scholar working with Prof. [Matt Mason](http://www.cs.cmu.edu/~mason/)'s Manipulation Lab in Robotics Institute of [Carnegie Mellon University](http://www.cmu.edu/). Before that, I got my Bachelor Degree of Engineering in June 2014 from the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](http://www.zju.edu.cn). I am now a senior research engineer at [Sea AI Lab](https://sail.sea.com/) working on reinforcement learning (RL) algorithms and applications. From 2019 to 2021 I worked as a senior applied resercher at Tencent on RL for game AI.
 
 I am especially interested in applying machine learning to real-world problems.
 
