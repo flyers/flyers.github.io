@@ -17,10 +17,24 @@ I obtained my Ph.D degree in [CSE Department](http://www.cse.ust.hk/) from the [
 <!-- ## Research Interest
 My research interest focuses on applying computational and statistical approaches to real problems in computer vision and robotics control. Currently, I mainly work on deep learning and reinforcement learning. Especially I am interested in the  perception and control of aerial robots. -->
 
-## Publications
+## Research
 
+### Embodied AI / Physical AI Evaluation
+
+*	**Siyi Li**, Chunyu Sun, Jiahao Zhang, Yuchen Kang, Wuliang Wang, Yu Qiu, Rui Jiang, Haitao Cui, Jie Chen. DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack. CoRR abs/2606.17574 (2026)
+	[[Paper](https://arxiv.org/pdf/2606.17574)]
+
+### Reinforcement Learning and Game AI
+
+*	Zhongwen Xu, Xianliang Wang, **Siyi Li**, Tao Yu, Liang Wang, Qiang Fu, Wei Yang. Agents Play Thousands of 3D Video Games. CoRR abs/2503.13356 (2025)
+	[[Paper](https://arxiv.org/pdf/2503.13356)] 
 * 	Zichen Liu, **Siyi Li**, Wee Sun Lee, Shuicheng Yan, Zhongwen Xu. Efficient Offline Policy Optimization with a Learned Model. *The Eleventh International Conference on Learning Representations (**ICLR**)*, Kigali Rwanda, 1-5 May 2023.  
 	[[Paper](https://arxiv.org/pdf/2210.05980)]
+*	A survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.
+	[[Paper](paper/PQE_DRL_Survey.pdf)][[Slides](http://lisiyi.me/paper/PQE_DRL_slides.pdf)]
+
+### Robotics Perception and Control
+
 *	**Siyi Li**, Jiaji Zhou, Zhenzhong Jia, Dit-Yan Yeung, and Matthew T. Mason. Learning accurate objectness instance segmentation from photo-realistic rendering for robotic manipulation. *Proceedings of the 2018 International Symposium on Experimental Robotics (**ISER**)*, Buenos Aires, Argentina, 5-8 November 2018.  
 	[[Paper](paper/ISER18_Render.pdf)]
 *	**Siyi Li**, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, and Shaojie Shen. Learning unmanned aerial vehicle control for autonomous target following. *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (**IJCAI**)*, Stockholm, Sweden, 13-19 July 2018.  
@@ -28,16 +42,10 @@ My research interest focuses on applying computational and statistical approache
 *	**Siyi Li**, Dit-Yan Yeung. Visual object tracking for unmanned aerial vehicles: A benchmark and new motion models. *Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (**AAAI**)*, pp.4140-4146, San Francisco, California, USA, 4-9 February 2017.  
     [[Paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14338/14292)] [[Project Page](https://github.com/flyers/drone-tracking)] [[Data](https://pan.baidu.com/s/1SftGHD7SyIFyBXExHbbYAQ)]
 
-## Preprints
+### Visual Tracking
 
-*	**Siyi Li**, Chunyu Sun, Jiahao Zhang, Yuchen Kang, Wuliang Wang, Yu Qiu, Rui Jiang, Haitao Cui, Jie Chen. DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack. CoRR abs/2606.17574 (2026)
-	[[Paper](https://arxiv.org/pdf/2606.17574)]
-*	Zhongwen Xu, Xianliang Wang, **Siyi Li**, Tao Yu, Liang Wang, Qiang Fu, Wei Yang. Agents Play Thousands of 3D Video Games. CoRR abs/2503.13356 (2025)
-	[[Paper](https://arxiv.org/pdf/2503.13356)] 
 *	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. CoRR abs/1501.04587 (2015)
 	[[Paper](https://arxiv.org/pdf/1501.04587.pdf)] [[Code](https://www.dropbox.com/s/e34mta1wxv50n95/SODLT_release.zip?dl=0)]
-*	A survey on methods and applications of deep reinforcement learning. *PhD Qualifying Exam*, 2017.
-	[[Paper](paper/PQE_DRL_Survey.pdf)][[Slides](http://lisiyi.me/paper/PQE_DRL_slides.pdf)]
 
 ## Teaching
 
