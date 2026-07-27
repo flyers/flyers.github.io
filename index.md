@@ -30,6 +30,8 @@ My research interest focuses on applying computational and statistical approache
 
 ## Preprints
 
+*	**Siyi Li**, Chunyu Sun, Jiahao Zhang, Yuchen Kang, Wuliang Wang, Yu Qiu, Rui Jiang, Haitao Cui, Jie Chen. DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack. CoRR abs/2606.17574 (2026)
+	[[Paper](https://arxiv.org/pdf/2606.17574)]
 *	Zhongwen Xu, Xianliang Wang, **Siyi Li**, Tao Yu, Liang Wang, Qiang Fu, Wei Yang. Agents Play Thousands of 3D Video Games. CoRR abs/2503.13356 (2025)
 	[[Paper](https://arxiv.org/pdf/2503.13356)] 
 *	Naiyan Wang, **Siyi Li**, Abhinav Gupta, Dit-Yan Yeung. Transferring rich feature hierarchies for robust visual tracking. CoRR abs/1501.04587 (2015)
