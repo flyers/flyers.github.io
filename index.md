@@ -21,6 +21,9 @@ My research interest focuses on applying computational and statistical approache
 
 ### Embodied AI / Physical AI Evaluation
 
+*	**Siyi Li**, Yuchen Kang, Wuliang Wang, Zhengjie Zhang, Jiangpin Liu, Jianhao Yao, Jie Chen. DeepInsight II: One Trace from Benchmark to Robot. CoRR abs/2608.16556 (2026)
+	[[Paper](https://arxiv.org/pdf/2608.16556)]
+
 *	**Siyi Li**, Chunyu Sun, Jiahao Zhang, Yuchen Kang, Wuliang Wang, Yu Qiu, Rui Jiang, Haitao Cui, Jie Chen. DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack. CoRR abs/2606.17574 (2026)
 	[[Paper](https://arxiv.org/pdf/2606.17574)]
 
